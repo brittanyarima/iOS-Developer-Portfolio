@@ -1,5 +1,9 @@
 # iOS Developer Portfolio
 
+![Brittany Rima](https://user-images.githubusercontent.com/76922883/177210072-35ec29e9-b48a-4e3b-8fa2-dc39a81d52e4.png)
+
+Hi! I'm a self-taught iOS Developer with a love for design, tech, and a desire to never stop learning. My goal is to help create applications that enrich people's lives. Here is some of my work!
+
 
 **MOVIEDB**
 
