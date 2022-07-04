@@ -15,4 +15,13 @@ Hi! I'm a self-taught iOS Developer with a love for design, tech, and a desire t
 MovieDB is an iOS app using SwiftUI. This app is a classic "Movie Database App" that utilizes the TMDB API and shows users information about popular and newly released movies, as well as giving the user the ability to search for a specific movie. This app was a fun project to learn and practice API calls. 
 
 Tech used: SwiftUI, MVVM, TMDB API.
-![image](https://user-images.githubusercontent.com/76922883/177210559-f76c0570-603c-45ef-bbc4-01db13226de4.png)
+
+
+**SafePeople**
+
+
+SafePeople is an app close to my heart. This was a collaboration with my sister, an idea she came up with that I had the honor to be able to bring to life. SafePeople is an app geared toward individuals who are struggling with addiction, anxiety, depression, or just need a little help reaching out for support from their trusted people. 
+
+When an individual feels anxious, tempted, or in need of help, they can open the SafePeople app and simply press the "Safe" button and it prepare a text message to be sent to their trusted people. We know how difficult it can be to reach out when in need of help, so this is a attempt to try and help people get help when they need it!
+
+Tech used: SwiftUI, CoreData, AppStorage
