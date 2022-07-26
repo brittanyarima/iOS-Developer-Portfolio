@@ -27,5 +27,12 @@ When an individual feels anxious, tempted, or in need of help, they can open the
 
 Tech used: SwiftUI, CoreData, AppStorage
 
+**Budgeteer**
+
+![Budgeteer](https://user-images.githubusercontent.com/76922883/181086317-c7b77ed3-65e3-420d-8604-a3d0b3ca425a.jpg)
+
+This app has been a passion project of mine over the past year. I started building this when I first started learning SwiftUI. It's been a project I love to go back to and practice new design and things I've learned. This app is a food budgeting app for some of the biggest theme parks in the world. 
+
+Tech used: API, SwiftUI, Core Data, Swift Package Manager
 
 
