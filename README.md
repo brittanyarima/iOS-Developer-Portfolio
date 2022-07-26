@@ -19,9 +19,13 @@ Tech used: SwiftUI, MVVM, TMDB API.
 
 **SafePeople**
 
+![SafePeople](https://user-images.githubusercontent.com/76922883/181084812-5dedd6bf-5a33-418b-a995-59e8ba536fa8.jpg)
 
 SafePeople is an app close to my heart. This was a collaboration with my sister, an idea she came up with that I had the honor to be able to bring to life. SafePeople is an app geared toward individuals who are struggling with addiction, anxiety, depression, or just need a little help reaching out for support from their trusted people. 
 
 When an individual feels anxious, tempted, or in need of help, they can open the SafePeople app and simply press the "Safe" button and it prepare a text message to be sent to their trusted people. We know how difficult it can be to reach out when in need of help, so this is a attempt to try and help people get help when they need it!
 
 Tech used: SwiftUI, CoreData, AppStorage
+
+
+
