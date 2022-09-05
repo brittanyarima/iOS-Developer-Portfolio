@@ -35,4 +35,10 @@ This app has been a passion project of mine over the past year. I started buildi
 
 Tech used: API, SwiftUI, Core Data, Swift Package Manager
 
+**ProjectView**
 
+![ProjectView](https://user-images.githubusercontent.com/76922883/188345036-57eaf0b9-14fb-4069-8572-d5f4783aaf84.jpg)
+
+This is an app to help people stay productive and keep track of their projects. Users can add new Projects to keep track of, and add to-do items to each project. I use Core Data to save each project, local notifications to send the user reminders, spotlight search capabilities, and accessibilty features to help when voice over is enabled. 
+
+Tech used: SwiftUI, Core Data, Unit Tests/UI Tests, Haptics, Spotlight Search, Local Notifications
