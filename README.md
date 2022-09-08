@@ -43,7 +43,7 @@ This is an app to help people stay productive and keep track of their projects. 
 
 Tech used: SwiftUI, Core Data, Unit Tests/UI Tests, Haptics, Spotlight Search, Local Notifications
 
-** Marvel Characters **
+**Marvel Characters**
 
 ![MarvelCharactersUIkit](https://user-images.githubusercontent.com/76922883/189012108-80077ede-81cc-48f3-b892-1410d11fc60a.jpg)
 
