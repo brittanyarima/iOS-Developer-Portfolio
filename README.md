@@ -16,8 +16,7 @@ MovieDB is an iOS app using SwiftUI. This app is a classic "Movie Database App" 
 Tech used: SwiftUI, MVVM, TMDB API.
 
 
-**SafePeople**
-[SafePeople](https://github.com/brittanyarima/SafePeople)
+**[SafePeople](https://github.com/brittanyarima/SafePeople)**
 
 ![SafePeopleMockup](https://user-images.githubusercontent.com/76922883/204181310-11f0d7aa-3c04-4bdc-b646-335d6d980f5d.png)
 
