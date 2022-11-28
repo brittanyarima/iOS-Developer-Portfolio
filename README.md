@@ -17,6 +17,7 @@ Tech used: SwiftUI, MVVM, TMDB API.
 
 
 **SafePeople**
+[SafePeople](https://github.com/brittanyarima/SafePeople)
 
 ![SafePeopleMockup](https://user-images.githubusercontent.com/76922883/204181310-11f0d7aa-3c04-4bdc-b646-335d6d980f5d.png)
 
