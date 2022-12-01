@@ -1,6 +1,6 @@
 
 ![White Minimalist Elegant Neutral LinkedIn Banner](https://user-images.githubusercontent.com/76922883/205179335-3ae68df5-4547-4e42-b1ab-3e8f05ba223a.png)
----
+ ---          
 
 
 
