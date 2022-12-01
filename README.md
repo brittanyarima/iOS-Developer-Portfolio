@@ -1,6 +1,8 @@
-# iOS Developer Portfolio
 
-<div style="text-align:center"><img src="https://user-images.githubusercontent.com/76922883/177210072-35ec29e9-b48a-4e3b-8fa2-dc39a81d52e4.png" width="200" height="200"/></div>
+![White Minimalist Elegant Neutral LinkedIn Banner](https://user-images.githubusercontent.com/76922883/205179335-3ae68df5-4547-4e42-b1ab-3e8f05ba223a.png)
+---
+
+
 
 
 
