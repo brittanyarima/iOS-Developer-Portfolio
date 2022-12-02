@@ -24,6 +24,17 @@ Creator View is an app developed by Sean Allen that helps YouTubers get a bigger
 - 🎨 SwiftUI
 - 🔲 WidgetKit
 
+
+---
+### [SafePeople](https://github.com/brittanyarima/SafePeople) 
+`📲 Available on the App Store`
+<br>Safe People  is an app...
+
+**Tech Used**
+- 💿 Core Data
+- 🎨 SwiftUI
+- 🏦 App Storage
+
 **MOVIEDB**
 ![MovieDBMockup](https://user-images.githubusercontent.com/76922883/201797303-92171715-9ac7-4d3b-a589-c37aacfd7d94.jpg)
 
