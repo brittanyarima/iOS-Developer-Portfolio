@@ -2,9 +2,8 @@
 ![White Minimalist Elegant Neutral LinkedIn Banner](https://user-images.githubusercontent.com/76922883/205179335-3ae68df5-4547-4e42-b1ab-3e8f05ba223a.png)         
  
 ### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
----
 
-### Creator View
+## Creator View
 Creator View is an app developed by Sean Allen that helps YouTubers get a bigger picture of their business. 
 <br>I have had to the opportunity to contribute to a few areas of this app. Check it out below!
 
@@ -24,16 +23,22 @@ Creator View is an app developed by Sean Allen that helps YouTubers get a bigger
 - 🎨 SwiftUI
 - 🔲 WidgetKit
 
-
----
-### [SafePeople](https://github.com/brittanyarima/SafePeople) 
+## [SafePeople](https://github.com/brittanyarima/SafePeople) 
 `📲 Available on the App Store`
-<br>Safe People  is an app...
+<br>Safe People was an idea my sister came up with and I had the honor of bringing to life. The purpose of the app is to help those struggling with addiction, anxiety, depression, etc.. reach out to their Safe People in times of need. When "triggered" the user can open the app and simply press the 'Safe Button'. This will prepare a pre-written customizable message that will be ready to send to their trusted people. The message and their trusted contacts will auto-populate in their iPhone's message app, and all they have to do is press "send".
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/76922883/205219162-5ec13057-2fa1-46a4-a609-f434046c5ca1.png" width="230"/>
+<img src="https://user-images.githubusercontent.com/76922883/205219193-dad363b1-394f-4f57-9257-173f2fe1549f.png" width="230"/>
+<img src="https://user-images.githubusercontent.com/76922883/205219264-1e7e1406-f70e-4372-a69e-0c815bbea49a.png" width="230"/>
+<img src="https://user-images.githubusercontent.com/76922883/205219336-758788c0-77a8-4433-adb3-84da57a9ffee.png" width="230"/>
+ </p>
+ 
 **Tech Used**
 - 💿 Core Data
 - 🎨 SwiftUI
 - 🏦 App Storage
+- 📇 Contacts
 
 **MOVIEDB**
 ![MovieDBMockup](https://user-images.githubusercontent.com/76922883/201797303-92171715-9ac7-4d3b-a589-c37aacfd7d94.jpg)
@@ -41,18 +46,6 @@ Creator View is an app developed by Sean Allen that helps YouTubers get a bigger
 MovieDB is an iOS app using SwiftUI. This app is a classic "Movie Database App" that utilizes the TMDB API and shows users information about popular and newly released movies, as well as giving the user the ability to search for a specific movie. This app was a fun project to learn and practice API calls. 
 
 Tech used: SwiftUI, MVVM, TMDB API.
-
-
-**[SafePeople](https://github.com/brittanyarima/SafePeople)**
-
-![SafePeopleMockup](https://user-images.githubusercontent.com/76922883/204181310-11f0d7aa-3c04-4bdc-b646-335d6d980f5d.png)
-
-
-SafePeople is an app close to my heart. This was a collaboration with my sister, an idea she came up with that I had the honor to be able to bring to life. SafePeople is an app geared toward individuals who are struggling with addiction, anxiety, depression, or just need a little help reaching out for support from their trusted people. 
-
-When an individual feels anxious, tempted, or in need of help, they can open the SafePeople app and simply press the "Safe" button and it prepare a text message to be sent to their trusted people. We know how difficult it can be to reach out when in need of help, so this is a attempt to try and help people get help when they need it!
-
-Tech used: SwiftUI, CoreData, AppStorage
 
 **Budgeteer**
 
