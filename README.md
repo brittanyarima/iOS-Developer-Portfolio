@@ -5,7 +5,13 @@
 ---
 
 ### Creator View
-Creator View is an app developed by Sean Allen that helps YouTubers get a bigger picture of their business. I have had to the opportunity to contribute to a few areas of this app. 
+Creator View is an app developed by Sean Allen that helps YouTubers get a bigger picture of their business. 
+<br>I have had to the opportunity to contribute to a few areas of this app. Check it out below!
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76922883/205193319-5f8c7225-9f77-4baa-89e0-2ceab8b6be13.png" width="230"/>
+<img src="https://user-images.githubusercontent.com/76922883/205193358-5708bcd4-84ff-4f94-b48d-5f7ed55456de.png" width="230"/>
+ </p>
 
 **My Contributions**
 - 🎨 Update Settings UI
