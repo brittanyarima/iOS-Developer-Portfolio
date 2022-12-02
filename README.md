@@ -1,11 +1,22 @@
 
-![White Minimalist Elegant Neutral LinkedIn Banner](https://user-images.githubusercontent.com/76922883/205179335-3ae68df5-4547-4e42-b1ab-3e8f05ba223a.png)
- ---          
+![White Minimalist Elegant Neutral LinkedIn Banner](https://user-images.githubusercontent.com/76922883/205179335-3ae68df5-4547-4e42-b1ab-3e8f05ba223a.png)         
  
 ### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
+---
 
+### Creator View
+Creator View is an app developed by Sean Allen that helps YouTubers get a bigger picture of their business. I have had to the opportunity to contribute to a few areas of this app. 
 
+**My Contributions**
+- 🎨 Update Settings UI
+- ⭐️ Add Ratings prompt
+- ⚙️ Preference Screen for mac
+- ❇️ Widget
 
+**Tech Used**
+- 💿 Core Data
+- 🎨 SwiftUI
+- 🔲 WidgetKit
 
 **MOVIEDB**
 ![MovieDBMockup](https://user-images.githubusercontent.com/76922883/201797303-92171715-9ac7-4d3b-a589-c37aacfd7d94.jpg)
