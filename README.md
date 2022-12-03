@@ -28,7 +28,7 @@ Creator View is an app developed by Sean Allen that helps YouTubers get a bigger
 <br>Safe People was an idea my sister came up with and I had the honor of bringing to life. The purpose of the app is to help those struggling with addiction, anxiety, depression, etc.. reach out to their Safe People in times of need. When "triggered" the user can open the app and simply press the 'Safe Button'. This will prepare a pre-written customizable message that will be ready to send to their trusted people. The message and their trusted contacts will auto-populate in their iPhone's message app, and all they have to do is press "send".
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/76922883/205219162-5ec13057-2fa1-46a4-a609-f434046c5ca1.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/76922883/205219162-5ec13057-2fa1-46a4-a609-f434046c5ca1.png" width="200"/>
 <img src="https://user-images.githubusercontent.com/76922883/205219193-dad363b1-394f-4f57-9257-173f2fe1549f.png" width="200"/>
 <img src="https://user-images.githubusercontent.com/76922883/205219264-1e7e1406-f70e-4372-a69e-0c815bbea49a.png" width="200"/>
 <img src="https://user-images.githubusercontent.com/76922883/205219336-758788c0-77a8-4433-adb3-84da57a9ffee.png" width="200"/>
@@ -40,12 +40,20 @@ Creator View is an app developed by Sean Allen that helps YouTubers get a bigger
 - 🏦 App Storage
 - 📇 Contacts
 
-**MOVIEDB**
-![MovieDBMockup](https://user-images.githubusercontent.com/76922883/201797303-92171715-9ac7-4d3b-a589-c37aacfd7d94.jpg)
+## [MovieDB](https://github.com/brittanyarima/MovieDB)
+MovieDB is a classic 'Movie Database App' built with SwiftUI. This app utilizes the TMDB API and shows users information about popular and newly released movies, as well as giving the user the ability to search for a specific movie. 
 
-MovieDB is an iOS app using SwiftUI. This app is a classic "Movie Database App" that utilizes the TMDB API and shows users information about popular and newly released movies, as well as giving the user the ability to search for a specific movie. This app was a fun project to learn and practice API calls. 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/76922883/205459025-f78eaf85-0d5e-4b42-9b89-4680906dd408.png" width="200"/>
+ <img src="https://user-images.githubusercontent.com/76922883/205459037-8fb70de8-0891-4a06-b20e-1706c582a35d.png" width="200"/>
+ <img src="https://user-images.githubusercontent.com/76922883/205459047-79c4fba8-b802-4543-ba2d-3a32dec68c98.png" width="200"/>
+ <img src="https://user-images.githubusercontent.com/76922883/205459054-da844ace-b9a4-42ca-a314-601aa39d00fa.png" width="200"/>
+</p>
 
-Tech used: SwiftUI, MVVM, TMDB API.
+**Tech Used**
+- 🎨 SwiftUI
+- 🍿 TMDB API
+- 👩‍🎨 MVVM
 
 **Budgeteer**
 
