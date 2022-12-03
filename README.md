@@ -8,8 +8,8 @@ Creator View is an app developed by Sean Allen that helps YouTubers get a bigger
 <br>I have had to the opportunity to contribute to a few areas of this app. Check it out below!
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/76922883/205193319-5f8c7225-9f77-4baa-89e0-2ceab8b6be13.png" width="230"/>
-<img src="https://user-images.githubusercontent.com/76922883/205193358-5708bcd4-84ff-4f94-b48d-5f7ed55456de.png" width="230"/>
+<img src="https://user-images.githubusercontent.com/76922883/205193319-5f8c7225-9f77-4baa-89e0-2ceab8b6be13.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/76922883/205193358-5708bcd4-84ff-4f94-b48d-5f7ed55456de.png" width="200"/>
  </p>
 
 **My Contributions**
@@ -28,10 +28,10 @@ Creator View is an app developed by Sean Allen that helps YouTubers get a bigger
 <br>Safe People was an idea my sister came up with and I had the honor of bringing to life. The purpose of the app is to help those struggling with addiction, anxiety, depression, etc.. reach out to their Safe People in times of need. When "triggered" the user can open the app and simply press the 'Safe Button'. This will prepare a pre-written customizable message that will be ready to send to their trusted people. The message and their trusted contacts will auto-populate in their iPhone's message app, and all they have to do is press "send".
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/76922883/205219162-5ec13057-2fa1-46a4-a609-f434046c5ca1.png" width="230"/>
-<img src="https://user-images.githubusercontent.com/76922883/205219193-dad363b1-394f-4f57-9257-173f2fe1549f.png" width="230"/>
-<img src="https://user-images.githubusercontent.com/76922883/205219264-1e7e1406-f70e-4372-a69e-0c815bbea49a.png" width="230"/>
-<img src="https://user-images.githubusercontent.com/76922883/205219336-758788c0-77a8-4433-adb3-84da57a9ffee.png" width="230"/>
+ <img src="https://user-images.githubusercontent.com/76922883/205219162-5ec13057-2fa1-46a4-a609-f434046c5ca1.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/76922883/205219193-dad363b1-394f-4f57-9257-173f2fe1549f.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/76922883/205219264-1e7e1406-f70e-4372-a69e-0c815bbea49a.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/76922883/205219336-758788c0-77a8-4433-adb3-84da57a9ffee.png" width="200"/>
  </p>
  
 **Tech Used**
