@@ -73,19 +73,18 @@ This app has been a passion project of mine over the past couple years. I starte
 - 💿 Core Data
 - 📦 Swift Package Manager
 
-**ProjectView**
+## Chord Trainer
+This is an app I built for a freelance client. This client wanted the core of an app that they could eventually expand on with their own design. Chord Trainer is a flashcard game that helps piano students practice chords. Students can choose their game settings on the home screen (adjust how fast the flash cards will change, as well as choose the duration of the game). Once the game begins, the piano chords will filter through in a random order and without repeating until the student has practiced all the chords. This was a fun app to build since I also play piano! It was also a nice challenge of working with Timers. Most of all, it was an incredible experience to get to work with a client and bring their idea to life!
 
-![ProjectView](https://user-images.githubusercontent.com/76922883/188345036-57eaf0b9-14fb-4069-8572-d5f4783aaf84.jpg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76922883/205521766-76a16ef7-6474-49bf-8f45-2454a83dfb99.jpg" width="200"/>
+<img src="https://user-images.githubusercontent.com/76922883/205521797-937c7a0f-15e8-4391-af02-ed18de0ebdaa.jpg" width="200"/>
+<img src="https://user-images.githubusercontent.com/76922883/205521804-84d8b953-97a3-43d7-93f6-da03efcb9912.jpg" width="200"/>
+</p>
 
-This is an app to help people stay productive and keep track of their projects. Users can add new Projects to keep track of, and add to-do items to each project. I use Core Data to save each project, local notifications to send the user reminders, spotlight search capabilities, and accessibilty features to help when voice over is enabled. 
+**Tech Used**
+- 🎨 SwiftUI
+- ⏲️ Timers
+- 🎬 Animations
 
-Tech used: SwiftUI, Core Data, Unit Tests/UI Tests, Haptics, Spotlight Search, Local Notifications
-
-**Marvel Characters**
-
-![MarvelCharactersUIkit](https://user-images.githubusercontent.com/76922883/189012108-80077ede-81cc-48f3-b892-1410d11fc60a.jpg)
-
-This app was built as a way to brush up on UIKit. I'm a big Marvel fan, so using the Marvel API was a must! The app is a simple Table View, made completely programmatically. 
-
-Tech used: UIKit, Networking, SDWebImage Framework, CryptoKit
 
