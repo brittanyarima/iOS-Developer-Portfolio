@@ -55,13 +55,23 @@ MovieDB is a classic 'Movie Database App' built with SwiftUI. This app utilizes 
 - 🍿 TMDB API
 - 👩‍🎨 MVVM
 
-**Budgeteer**
+## [Budgeteer](https://github.com/brittanyarima/foodBudgeteer)
+This app has been a passion project of mine over the past couple years. I started building this when I first started learning SwiftUI. It's been a project I love to go back to and practice new designs and different things I've learned. Budgeteer is a food budgeting app for some of the biggest theme parks in the world. 
 
-![Budgeteer](https://user-images.githubusercontent.com/76922883/181086317-c7b77ed3-65e3-420d-8604-a3d0b3ca425a.jpg)
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/76922883/205469718-a6d45b02-1b51-4efd-9f80-e1b65bb7cd34.png" width="200"/>
+ <img src="https://user-images.githubusercontent.com/76922883/205469728-c4bd169e-8a94-4929-b481-5fbae7373296.png" width="200"/>
+ <img src="https://user-images.githubusercontent.com/76922883/205469736-5c93ee7b-d309-4430-ba77-d69dca18cf5e.png" width="200"/>
+ <img src="https://user-images.githubusercontent.com/76922883/205469747-c7f33c98-03dc-4c51-88e0-7e4450b75b2c.png" width="200"/>
+ <img src="https://user-images.githubusercontent.com/76922883/205469754-71291953-5015-4015-9cbf-60da203d7510.png" width="200"/>
+ <img src="https://user-images.githubusercontent.com/76922883/205469757-cd1f3eff-2bac-420d-a587-e0220a83c1d5.png" width="200"/>
+ <img src="https://user-images.githubusercontent.com/76922883/205469762-72f2ee4d-2a6a-4bd4-a16d-b103739a5bed.png" width="200"/>
+</p>
 
-This app has been a passion project of mine over the past year. I started building this when I first started learning SwiftUI. It's been a project I love to go back to and practice new design and things I've learned. This app is a food budgeting app for some of the biggest theme parks in the world. 
-
-Tech used: API, SwiftUI, Core Data, Swift Package Manager
+**Tech Used**
+- 🎨 SwiftUI
+- 💿 Core Data
+- 📦 Swift Package Manager
 
 **ProjectView**
 
