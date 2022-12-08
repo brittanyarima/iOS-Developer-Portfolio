@@ -87,4 +87,16 @@ This is an app I built for a freelance client. This client wanted the core of an
 - ⏲️ Timers
 - 🎬 Animations
 
+## [Sketchy](https://github.com/brittanyarima/Sketchy)
+An iPad sketch app built with PencilKit, SwiftUI, & UIKit. This project tested my ability to integrate UIKit with a SwiftUI project when needed. This project required UIKit compenents for the Canvas, as well as to give the user the ability to share their artwork. 
+PencilKit is a powerhouse and central to this app, giving the user the ability to choose their drawing tools, colors, and the ability to erase and undo their changes. I also added toolbar items that give the user the ability to clear the whole canvas, undo, and share their drawing or save to their device.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76922883/206352895-8bab29e9-b6e3-473b-9b58-654864853eab.png" width="250"
+</p>
+
+**Tech Used**
+- 🎨 SwiftUI
+- ✏️ PencilKit
+- 📱 UIKit 
+- 💬 UIActivityViewController
