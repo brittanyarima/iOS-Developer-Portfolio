@@ -40,6 +40,26 @@ Creator View is an app developed by Sean Allen that helps YouTubers get a bigger
 - 🏦 App Storage
 - 📇 Contacts
 
+## [Steps](https://github.com/brittanyarima/Steps)
+Steps is a step counting app built with SwiftUI and utilizing HealthKit. This was a fun app to build! The home screen has a fun visual of how close the user is to their goal. The detail screen is built with a custom circle graph and a Swift Charts bar chart to show the user their weekly steps. The Awards tab encourages the user to keep taking steps to unlock awards each week. The Settings tab gives the user the option to change their daily steps goal and to enable or disable notifications. Check out more details in this repo at the link above!
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76922883/209883943-03fc014d-778a-429d-8817-79d5a665ba0d.jpg" width="200"/>
+<img src="https://user-images.githubusercontent.com/76922883/209884023-aca50258-92ee-4dcf-89db-5e69ee6d3076.jpg" width="200"/>
+<img src="https://user-images.githubusercontent.com/76922883/209884047-f5b8bf5f-7ee5-43f1-bedc-6c7786197a13.jpg" width="200"/>
+<img src="https://user-images.githubusercontent.com/76922883/209884076-f3ebcd7b-5dc2-49c2-9762-83e50c19e102.jpg" width="200"/>
+<img src="https://user-images.githubusercontent.com/76922883/209884112-f3ad71cd-2fb7-4473-a1d3-8fbdb3c37a00.jpg" width="200"/>
+<img src="https://user-images.githubusercontent.com/76922883/209884150-6c2d5d16-c84d-475a-a797-b0f5b2288a41.mp4" width="200"/>
+</p>
+
+**Tech Used**
+- 🎨 SwiftUI
+- ❤️‍🩹 HealthKit
+- 📊 Swift Charts
+- 🔔 Local Notifications
+- 🗂️ MVVM
+- 💾 App Storage
+
 ## [MovieDB](https://github.com/brittanyarima/MovieDB)
 MovieDB is a classic 'Movie Database App' built with SwiftUI. This app utilizes the TMDB API and shows users information about popular and newly released movies, as well as giving the user the ability to search for a specific movie. 
 
