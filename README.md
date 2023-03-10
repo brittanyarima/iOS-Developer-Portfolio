@@ -3,6 +3,24 @@
  
 ### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
 
+## Budgeteer
+This app has been a passion project of mine over the past couple years. Budgeteer is a Disney Parks budget planning app. Me and my husband absolutely love going to the parks but we always find ourselves coming over budget (too many churros). I built this app to help solve this problem! I found the estimated price for many of the popular items in the parks so users can quickly budget for what they might buy on their trip. 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76922883/224447663-1946a1d5-0e7d-45bb-ba4f-48eb68924337.PNG" width="200"/>
+<img src="https://user-images.githubusercontent.com/76922883/224447492-c8163fc6-7d5d-416c-913c-f9d9e0295392.PNG" width="200"/>
+<img src="https://user-images.githubusercontent.com/76922883/224447581-6896ca04-6ffe-4a87-8c9e-a45809ad1798.PNG" width="200"/>
+</p>
+
+
+
+**Tech Used**
+- 💿 Core Data
+- 🎨 SwiftUI
+- 🏦 App Storage
+- 📦 Swift Package Manager
+ - 🚘 Roadmap
+
 ## Creator View
 Creator View is an app developed by Sean Allen that helps YouTubers get a bigger picture of their business. 
 <br>I have had the opportunity to contribute to a few areas of this app. Check it out below!
@@ -76,24 +94,6 @@ MovieDB is a classic 'Movie Database App' built with SwiftUI. This app utilizes 
 - 🎨 SwiftUI
 - 🍿 TMDB API
 - 👩‍🎨 MVVM
-
-## [Budgeteer](https://github.com/brittanyarima/foodBudgeteer)
-This app has been a passion project of mine over the past couple years. I started building this when I first started learning SwiftUI. It's been a project I love to go back to and practice new designs and different things I've learned. Budgeteer is a food budgeting app for some of the biggest theme parks in the world. 
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/76922883/205469718-a6d45b02-1b51-4efd-9f80-e1b65bb7cd34.png" width="200"/>
- <img src="https://user-images.githubusercontent.com/76922883/205469728-c4bd169e-8a94-4929-b481-5fbae7373296.png" width="200"/>
- <img src="https://user-images.githubusercontent.com/76922883/205469736-5c93ee7b-d309-4430-ba77-d69dca18cf5e.png" width="200"/>
- <img src="https://user-images.githubusercontent.com/76922883/205469747-c7f33c98-03dc-4c51-88e0-7e4450b75b2c.png" width="200"/>
- <img src="https://user-images.githubusercontent.com/76922883/205469754-71291953-5015-4015-9cbf-60da203d7510.png" width="200"/>
- <img src="https://user-images.githubusercontent.com/76922883/205469757-cd1f3eff-2bac-420d-a587-e0220a83c1d5.png" width="200"/>
- <img src="https://user-images.githubusercontent.com/76922883/205469762-72f2ee4d-2a6a-4bd4-a16d-b103739a5bed.png" width="200"/>
-</p>
-
-**Tech Used**
-- 🎨 SwiftUI
-- 💿 Core Data
-- 📦 Swift Package Manager
 
 ## Chord Trainer
 This is an app I built for a freelance client. This client wanted the core of an app that they could eventually expand on with their own design. Chord Trainer is a flashcard game that helps piano students practice chords. Students can choose their game settings on the home screen (adjust how fast the flash cards will change, as well as choose the duration of the game). Once the game begins, the piano chords will filter through in a random order and without repeating until the student has practiced all the chords. This was a fun app to build since I also play piano! It was also a nice challenge of working with Timers. Most of all, it was an incredible experience to get to work with a client and bring their idea to life!
