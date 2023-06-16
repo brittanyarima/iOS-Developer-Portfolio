@@ -3,6 +3,24 @@
  
 ### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
 
+## Sneak Peek 👀
+Here are a few updates I've been hacking away at for Magic Budget. This update is yet to be ready for the App Store, but here's a sneak peek at some new things coming to Magic Budget in the next update!
+
+<p align="center">
+ <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/d26e2525-5b46-4814-ad01-b2141f3a4fcf", width="200"/>
+<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/142c72ae-ffa2-4759-9c47-fc6d65d91316", width="200"/>
+<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/2edf6ae3-4f8a-4c99-a9e7-2d6f1a3c48a6", width="200"/>
+</p>
+
+What's new?
+- A refreshed Home Screen
+- Updated UI
+- App-wide consistency in Buttons/Textfield/Sheet styles
+- To make it a bit more fun, I've added the ability for users to customize each trip with a color and icon
+- I incorporated the Queue-Times API to show Disneyland's current wait times on the Home Screen
+- More to come!
+
+
 ## Magic Budget
 This app has been a passion project of mine over the past couple years. Magic Budget is a Disney Parks budget planning app. Me and my husband absolutely love going to the parks but we always find ourselves coming over budget (too many churros). I built this app to help solve this problem! I found the estimated price for many of the popular items in the parks so users can quickly budget for what they might buy on their trip. 
 
