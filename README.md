@@ -5,12 +5,40 @@
 
 # [Clockology](https://apps.apple.com/us/app/clockology/id1456386228)
 (Contract Work)
-I've had the opportunity to contribute to this incredible iOS App. Using SwiftUI, I've helped refresh some of the designs, implement a new generic Calendar and Chart layer for users to add to their watch faces, and help with various bug fixes.
+I've have the opportunity to contribute to this incredible iOS/watchOS App. Using SwiftUI, I've helped refresh some of the designs, implement a new generic Calendar and Chart layer for users to add to their watch faces, and help with various bug fixes and design updates.
+
+<p align="center">
+<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/d98299e3-406a-4b30-9402-561fad8ebf9f", width="200"/>
+<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/bdb2b6b7-d6b3-451e-92b4-d9f8e21d0190", width="200"/>
+<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/33bf4d41-00e6-4b2b-8063-056a70e053b6", width="200"/>
+</p>
+
+- 💬 Wrote a Python script to help with the app's localization
+- 📊 Built a generic chart layer with SwiftCharts to handle the data and settings the User chooses to use
+- 🔹 Helped add custom watch hands to the app usings custom SwiftUI Shapes
+- Other UI and bug fixes
+
+# [AppIdeaasApp](https://apps.apple.com/us/app/appideasapp/id6476480047)
+My most recent app I built and released on the App Store. I created this app out of personal need. I have SO MANY random app ideas and wanted a place I could easily keep track of them. AppIdeasApp lets you create app ideas, brainstorm everything from name ideas, feature ideas, color schemes, and more. Less forgetting. More building. More shipping. I wanted to challenge my design skills on this project and had fun adding some animations (all with SwiftUI of course!)
 
 
+<p align="center">
+<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/e619a6ce-7e2b-4c45-b84f-d6f4f64eb243, width="200", height="355"/>
+<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/fd6932ea-17c7-46aa-8ac4-49b07d058bec", width="200",height="300" />
+<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/9153668b-4641-4e87-80d1-8828ec8d135c", width="200", height="300"/>
+</p>
 
-## Sneak Peek 👀
-Here are a few updates I've been hacking away at for Magic Budget. This update is yet to be ready for the App Store, but here's a sneak peek at some new things coming to Magic Budget in the next update!
+**Tech Used**
+- 💿 Core Data
+- 🎨 SwiftUI
+- 🏦 App Storage
+- 🎁 WishKit API
+- 💰 IAP
+- 📲 WidgetKit
+
+
+# [Magic Budget](https://apps.apple.com/us/app/magic-budget/id6447111418)
+This app has been a passion project of mine over the past couple years. Magic Budget is a Disney Parks budget planning app. Me and my husband absolutely love going to the parks but we always find ourselves coming over budget (too many churros). I built this app to help solve this problem! I found the estimated price for many of the popular items in the parks so users can quickly budget for what they might buy on their trip. 
 
 <p align="center">
  <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/d26e2525-5b46-4814-ad01-b2141f3a4fcf", width="200"/>
@@ -18,32 +46,14 @@ Here are a few updates I've been hacking away at for Magic Budget. This update i
 <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/2edf6ae3-4f8a-4c99-a9e7-2d6f1a3c48a6", width="200"/>
 </p>
 
-What's new?
-- A refreshed Home Screen
-- Updated UI
-- App-wide consistency in Buttons/Textfield/Sheet styles
-- To make it a bit more fun, I've added the ability for users to customize each trip with a color and icon
-- I incorporated the Queue-Times API to show Disneyland's current wait times on the Home Screen
-- More to come!
-
-
-## Magic Budget
-This app has been a passion project of mine over the past couple years. Magic Budget is a Disney Parks budget planning app. Me and my husband absolutely love going to the parks but we always find ourselves coming over budget (too many churros). I built this app to help solve this problem! I found the estimated price for many of the popular items in the parks so users can quickly budget for what they might buy on their trip. 
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/76922883/224447663-1946a1d5-0e7d-45bb-ba4f-48eb68924337.PNG" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/224447492-c8163fc6-7d5d-416c-913c-f9d9e0295392.PNG" width="200"/>
-<img src="https://user-images.githubusercontent.com/76922883/224447581-6896ca04-6ffe-4a87-8c9e-a45809ad1798.PNG" width="200"/>
-</p>
-
-
 
 **Tech Used**
 - 💿 Core Data
 - 🎨 SwiftUI
 - 🏦 App Storage
-- 📦 Swift Package Manager
- - 🚘 Roadmap
+- 🚘 Roadmap
+- 💰 IAP
+- ⏱️ Queue Times API
 
 ## Creator View
 Creator View is an app developed by Sean Allen that helps YouTubers get a bigger picture of their business. 
@@ -104,20 +114,6 @@ Steps is a step counting app built with SwiftUI and utilizing HealthKit. This wa
 - 🗂️ MVVM
 - 💾 App Storage
 
-## [MovieDB](https://github.com/brittanyarima/MovieDB)
-MovieDB is a classic 'Movie Database App' built with SwiftUI. This app utilizes the TMDB API and shows users information about popular and newly released movies, as well as giving the user the ability to search for a specific movie. 
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/76922883/205459025-f78eaf85-0d5e-4b42-9b89-4680906dd408.png" width="200"/>
- <img src="https://user-images.githubusercontent.com/76922883/205459037-8fb70de8-0891-4a06-b20e-1706c582a35d.png" width="200"/>
- <img src="https://user-images.githubusercontent.com/76922883/205459047-79c4fba8-b802-4543-ba2d-3a32dec68c98.png" width="200"/>
- <img src="https://user-images.githubusercontent.com/76922883/205459054-da844ace-b9a4-42ca-a314-601aa39d00fa.png" width="200"/>
-</p>
-
-**Tech Used**
-- 🎨 SwiftUI
-- 🍿 TMDB API
-- 👩‍🎨 MVVM
 
 ## Chord Trainer
 This is an app I built for a freelance client. This client wanted the core of an app that they could eventually expand on with their own design. Chord Trainer is a flashcard game that helps piano students practice chords. Students can choose their game settings on the home screen (adjust how fast the flash cards will change, as well as choose the duration of the game). Once the game begins, the piano chords will filter through in a random order and without repeating until the student has practiced all the chords. This was a fun app to build since I also play piano! It was also a nice challenge of working with Timers. Most of all, it was an incredible experience to get to work with a client and bring their idea to life!
@@ -132,17 +128,3 @@ This is an app I built for a freelance client. This client wanted the core of an
 - 🎨 SwiftUI
 - ⏲️ Timers
 - 🎬 Animations
-
-## [Sketchy](https://github.com/brittanyarima/Sketchy)
-An iPad sketch app built with PencilKit, SwiftUI, & UIKit. This project tested my ability to integrate UIKit with a SwiftUI project when needed. This project required UIKit compenents for the Canvas, as well as to give the user the ability to share their artwork. 
-PencilKit is a powerhouse and central to this app, giving the user the ability to choose their drawing tools, colors, and the ability to erase and undo their changes. I also added toolbar items that give the user the ability to clear the whole canvas, undo, and share their drawing or save to their device.
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/76922883/206352895-8bab29e9-b6e3-473b-9b58-654864853eab.png" width="250"
-</p>
-
-**Tech Used**
-- 🎨 SwiftUI
-- ✏️ PencilKit
-- 📱 UIKit 
-- 💬 UIActivityViewController
