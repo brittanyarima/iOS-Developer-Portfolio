@@ -8,7 +8,6 @@
 I've have the opportunity to contribute to this incredible iOS/watchOS App. Using SwiftUI, I've helped refresh some of the designs, implement a new generic Calendar and Chart layer for users to add to their watch faces, and help with various bug fixes and design updates.
 
 <p align="center">
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/d98299e3-406a-4b30-9402-561fad8ebf9f", width="200"/>
 <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/bdb2b6b7-d6b3-451e-92b4-d9f8e21d0190", width="200"/>
 <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/33bf4d41-00e6-4b2b-8063-056a70e053b6", width="200"/>
 </p>
