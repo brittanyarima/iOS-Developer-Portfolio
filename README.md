@@ -78,6 +78,13 @@ Creator View is an app developed by Sean Allen that helps YouTubers get a bigger
 `📲 Available on the App Store`
 <br>Safe People was an idea my sister came up with and I had the honor of bringing to life. The purpose of the app is to help those struggling with addiction, anxiety, depression, etc.. reach out to their Safe People in times of need. When "triggered" the user can open the app and simply press the 'Safe Button'. This will prepare a pre-written customizable message that will be ready to send to their trusted people. The message and their trusted contacts will auto-populate in their iPhone's message app, and all they have to do is press "send".
 
+<br>Here's a sneak peek at the next update currently in the works!
+<p align="center">  
+<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/e85c3dfe-6b7a-40e7-b495-9840081eefa6" width=200/> 
+</p>
+
+
+<br> Current app store version
 <p align="center">
 <img src="https://user-images.githubusercontent.com/76922883/205219162-5ec13057-2fa1-46a4-a609-f434046c5ca1.png" width="200"/>
 <img src="https://user-images.githubusercontent.com/76922883/205219193-dad363b1-394f-4f57-9257-173f2fe1549f.png" width="200"/>
