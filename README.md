@@ -5,16 +5,27 @@
 
 # [Clockology](https://apps.apple.com/us/app/clockology/id1456386228)
 (Contract Work)
-I've have the opportunity to contribute to this incredible iOS/watchOS App. Using SwiftUI, I've helped refresh some of the designs, implement a new generic Calendar and Chart layer for users to add to their watch faces, and help with various bug fixes and design updates.
+I've have the opportunity to contribute to this incredible iOS/watchOS App. Using SwiftUI, I've helped refresh some of the designs, implement a new generic Calendar and Chart layer for users to add to their watch faces, and help with various bug fixes and design updates. This is ongoing work and just a few examples of the things I've had the opportunity to work on.
+
+
+
+
+
+
+
+
 
 <p align="center">
-<img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/bdb2b6b7-d6b3-451e-92b4-d9f8e21d0190", width="200"/>
+<img src="https://github.com/user-attachments/assets/77723a34-f34d-4784-a74d-463aff38de92", width="200"/>
 <img src="https://github.com/brittanyarima/iOS-Developer-Portfolio/assets/76922883/33bf4d41-00e6-4b2b-8063-056a70e053b6", width="200"/>
 </p>
 
 - 💬 Wrote a Python script to help with the app's localization
 - 📊 Built a generic chart layer with SwiftCharts to handle the data and settings the User chooses to use
 - 🔹 Helped add custom watch hands to the app usings custom SwiftUI Shapes
+- 📲 Incorporated tap gestures to improve the watch face editor experience
+  
+[//]: # " - ⌚️ Added a watch band preview feature so users can see what their face could like like with popular band options"
 - Other UI and bug fixes
 
 # [AppIdeaasApp](https://apps.apple.com/us/app/appideasapp/id6476480047)
