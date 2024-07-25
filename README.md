@@ -1,17 +1,12 @@
 
-![White Minimalist Elegant Neutral LinkedIn Banner](https://user-images.githubusercontent.com/76922883/205179335-3ae68df5-4547-4e42-b1ab-3e8f05ba223a.png)         
+![Neutral Creative Professional LinkedIn Article Cover Image-2](https://github.com/user-attachments/assets/2b010709-37b9-4ac8-aefc-52498ead4b6f)
+       
  
-### 👋 Hi! I'm a self-taught freelance/indie iOS Developer. Here's a bit of what I've been working on.
+### 👋 Hi! I'm a self-taught freelance/indie iOS Engineer. Here's a bit of what I've been working on.
 
 # [Clockology](https://apps.apple.com/us/app/clockology/id1456386228)
 (Contract Work)
 I've have the opportunity to contribute to this incredible iOS/watchOS App. Using SwiftUI, I've helped refresh some of the designs, implement a new generic Calendar and Chart layer for users to add to their watch faces, and help with various bug fixes and design updates. This is ongoing work and just a few examples of the things I've had the opportunity to work on.
-
-
-
-
-
-
 
 
 
